@@ -1,12 +1,3 @@
-<p style="font-size:14px" align="right">
-<a href="https://t.me/bangpateng_group" target="_blank">Join our telegram <img src="https://user-images.githubusercontent.com/50621007/183283867-56b4d69f-bc6e-4939-b00a-72aa019d1aea.png" width="30"/></a>
-<a href="https://bangpateng.com/" target="_blank">Visit our website <img src="https://user-images.githubusercontent.com/38981255/184068977-2d456b1a-9b50-4b75-a0a7-4909a7c78991.png" width="30"/></a>
-</p>
-
-<p align="center">
-  <img height="250" height="250" src="https://user-images.githubusercontent.com/38981255/197592560-3918c8df-c20b-4dd7-89f6-ea76a3f0f89d.png">
-</p>
-
 Dokumen Official :
 > https://www.wormholes.com/docs/Install/index.html
 
@@ -130,5 +121,3 @@ Nanti Akan Muncul Tampilan Seperti di Bawah ini, Jangan Lupa Untuk di Screenshoo
 
 
 Kirimkan Screenshoot nya dan Kirimkan Address Wormholes nya Kirim ke Email *market@wormholes.com*
-
-*SELESAI.. UNTUK LANJUTAN TUNGGU DAPAT EMAIL.. PANTAU DI CHANNEL https://t.me/bangpateng_airdrop*
